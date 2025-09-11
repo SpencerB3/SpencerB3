@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
+## Hi there 👋, I'm Spencer
 
 - 🔭 I’m currently working on Shopify Projects
 - 🌱 I’m currently learning Javascript
